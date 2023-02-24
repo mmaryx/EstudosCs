@@ -1,12 +1,12 @@
-# Estudos-CS
-Iniciando meus estudos de C# utilizando o framework .NET e a IDE Visual Studio. 
+# CsStudy
+Starting my C# studies using the .NET Framework and the Visual Studio IDE. 
 
-- Código 100% comentado.
+- 100% commented code.
 
 ---
 
-    Código 1 = Console.WriteLine(); & Declaração de Variáveis
-    Código 2 = Console.ReadLine(); & Declaração de Variavel Constante
-    Código 3 = Operadores Aritiméticos
-    Código 4 = Condicional IF ELSE // ELSE IF
+    Code 1 = Console.WriteLine(); & Declaration of Variables
+    Code 2 = Console.ReadLine(); & Constant Variable Declaration
+    Code 3 = Arithmetic Operators
+    Code 4 = Conditional IF ELSE // ELSE IF
 
