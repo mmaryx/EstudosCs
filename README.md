@@ -1,4 +1,4 @@
-# CsStudy
+# C# Study
 Starting my C# studies using the .NET Framework and the Visual Studio IDE. 
 
 - 100% commented code.
